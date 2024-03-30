@@ -1,1 +1,1 @@
-# push-ups-counter
+OPEN-CV
